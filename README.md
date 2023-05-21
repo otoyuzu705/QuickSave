@@ -8,6 +8,6 @@
   <li>Storing and loading structures.</li>
   <li>Store values by themselves.</li>
   <li>Save multiple data in a save folder.</li>
-  <li>Delete specific or all data</li>
+  <li>Delete specific or all data.</li>
   <li>Easy data encryption.</li>
 </ul>
